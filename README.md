@@ -49,7 +49,7 @@ image inputs to continuous spatial coordinates.
 ---
 
 ## Project Structure
-
+```
 pixel_coordinate_regression/
 │
 ├── src/
@@ -61,7 +61,7 @@ pixel_coordinate_regression/
 ├── notebook.ipynb
 ├── requirements.txt
 └── README.md
-
+```
 ---
 
 ## Installation and Dependencies
